@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\aaaProgramming\Random Programs\TaxCalculator\TaxCalculator\main.cpp(16,20): warning C4018: '>': signed/unsigned mismatch
+E:\aaaProgramming\Random Programs\TaxCalculator\TaxCalculator\main.cpp(21,25): warning C4018: '>': signed/unsigned mismatch
+E:\aaaProgramming\Random Programs\TaxCalculator\TaxCalculator\main.cpp(21,55): warning C4018: '<=': signed/unsigned mismatch
+E:\aaaProgramming\Random Programs\TaxCalculator\TaxCalculator\main.cpp(26,25): warning C4018: '>': signed/unsigned mismatch
+E:\aaaProgramming\Random Programs\TaxCalculator\TaxCalculator\main.cpp(26,54): warning C4018: '<=': signed/unsigned mismatch
+  TaxCalculator.vcxproj -> E:\aaaProgramming\Random Programs\TaxCalculator\Debug\TaxCalculator.exe
